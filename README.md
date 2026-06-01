@@ -1,4 +1,4 @@
-# NHS-Waiting-Times-Analysis
+# NHS Waiting Times & Operational Performance Analysis
 ![SQL](https://img.shields.io/badge/sql-D95B5B?style=for-the-badge&labelColor=black)
 ![powerbi](https://img.shields.io/badge/powerbi-D4B853?style=for-the-badge&labelColor=black)
 ![mysql](https://img.shields.io/badge/mysql-%232A6DA7?style=for-the-badge&logo=mysql&labelColor=black)
