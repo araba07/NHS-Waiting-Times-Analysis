@@ -21,9 +21,11 @@ This project aims to analyse historical NHS waiting time data (2018–2025) and 
 │
 └── dashboard/               <- Final visualisation files and interactive assets.
     ├─ nhs waiting data prsentation.pbix
-    └── nhs_waiting_list_dashboard_recording.mp4
+    ├─ nhs_waiting_list_dashboard_recording.mp4
+    └── nhs_waiting_list_dashboard_recording.gif
 ```
 ## My Dashboard 
+![NHS Interactive Dashboard Walkthrough](dashboard/nhs_waiting_list_dashboard_recording.gif)
 ## Data Source & Envirnment
 The analysis combines two distinct operational datasets to evaluate systemic performance:
 
