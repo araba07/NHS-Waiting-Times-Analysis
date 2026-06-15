@@ -26,7 +26,7 @@ This project aims to analyse historical NHS waiting time data (2018–2025) and 
 ```
 ## My Dashboard 
 ![NHS Interactive Dashboard Walkthrough](dashboard/nhs_waiting_list_dashboard_recording.gif)
-## Data Source & Envirnment
+## Data Source & Environment
 The analysis combines two distinct operational datasets to evaluate systemic performance:
 
 1. **Historical Waiting Times (2018–2025):** Extracted from the official [NHS England Consultant-Led Referral to Treatment (RTT) Waiting Times Statistics](https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/). This raw data was initially filtered to isolate the most valuable metrics and cleaned in Excel, then ingested into a local MySQL database for data engineering, structural cleaning, and baseline validation queries.
