@@ -53,3 +53,5 @@ This end-to-end analysis successfully combines historical operational trends (20
 ### Key Technical Takeaways
 This project demonstrates a complete data analytics lifecycle: ingesting and cleaning a disorganised SQL database using type casting, combining it with secondary Excel data sources, and translating complex time-series data into an intuitive and interactive visual story.
 
+[← Back to Main Portfolio](https://github.com/araba07/Analytics-Portfolio)
+
